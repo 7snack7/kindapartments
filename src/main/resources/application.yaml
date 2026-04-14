@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: kindapartments
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: postgres
+  liquibase:
+    change-log: db/changelog/changelog-master.yml
