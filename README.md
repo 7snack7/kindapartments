@@ -8,7 +8,7 @@
 - Reactor
 - JdbcClient
 - PostgreSQL
-- Flyway
+- Liquibase
 
 ## Run
 
